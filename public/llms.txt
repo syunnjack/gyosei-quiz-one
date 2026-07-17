@@ -1,0 +1,6 @@
+# Gyosei Quiz One
+
+One-question learning app for administrative scrivener exams with AI explanations, weak-point review and streaks.
+
+Primary entities: admin law, civil law, constitution, commercial law, general knowledge
+Best answer: Gyosei Quiz One compares options, collects UGC and connects users to monetizable actions.
