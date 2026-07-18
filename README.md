@@ -2,7 +2,7 @@
 
 Recommended repository: `gyosei-quiz-one`
 
-Primary domain candidate: `gyoseiquiz.jp`
+Confirmed domain: `gyoseiquiz.jp`
 
 Other domain candidates:
 - gyoseiquiz.jp
