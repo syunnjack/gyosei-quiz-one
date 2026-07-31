@@ -2,10 +2,10 @@
 
 Recommended repository: `gyosei-quiz-one`
 
-Confirmed domain: `gyoseiquiz.jp`
+Confirmed domain: `https://syunnjack.github.io/gyosei-quiz-one/`
 
 Other domain candidates:
-- gyoseiquiz.jp
+- https://syunnjack.github.io/gyosei-quiz-one/
 - shikakuone.jp
 - lawquiz.jp
 - ichimon.jp
