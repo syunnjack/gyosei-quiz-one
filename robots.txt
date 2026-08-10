@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://syunnjack.github.io/gyosei-quiz-one/sitemap.xml
