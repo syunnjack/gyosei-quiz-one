@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://gyoseiquiz.jp/sitemap.xml
+Disallow: /
